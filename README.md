@@ -9,7 +9,7 @@ The main idea behind the Pixie Mart is to buy a bicycles from the diffrent selle
 sell it to the market post refurbished with some guarantee and services.
 ```
 
-Important Points to build an UI/UX
+Important points to note before you start
 - Select the best colors
 - You can take a logo from website or instagram page mentioned on website's footer. (Or you can create one)
 - Direct copy of the resources from other website is not allowed (You can design the graphical images or opensource images and edit them)
